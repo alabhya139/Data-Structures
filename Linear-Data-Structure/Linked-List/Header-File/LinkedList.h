@@ -10,6 +10,8 @@ void insert_at_beggining(Node **head_ref,int data);
 
 void insert_after(Node **head_ref,int n,int data);
 
+void delete_node(Node **head_ref,int position);
+
 void traverse_ll(Node* head);
 
 #endif // LINKEDLIST_H_INCLUDED
