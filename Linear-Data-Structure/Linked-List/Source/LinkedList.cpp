@@ -42,6 +42,31 @@ void insert_after(Node **head_ref,int n,int data)
      }
 }
 
+void delete_node(Node **head_ref ,int position)
+{
+    Node *temp=*head_ref;
+    Node *prev_node=new Node;
+    if(temp==NULL)
+    {
+        cout<<"The List Is Empty"<<endl;
+    }
+    if(position==0)
+    {
+        *head_ref=temp->next;
+        delete temp;
+    }
+    while(position--)
+    {
+        if(position==0)
+        {
+            prev_node=temp;
+            temp=temp->next;
+            prev_node->next=temp->next;
+            delete temp;
+        }
+    }
+}
+
 void traverse_ll(Node* head)
 {
     if(head==NULL)
