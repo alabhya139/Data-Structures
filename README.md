@@ -9,9 +9,11 @@
 Hi everyone, This is the Github repository for the various Data Structures I have started to implement.Following are the Data Structure I am going to implement here:
 - [ ] 1. Linked List
      - [x] 1. Insertion
-     - [ ] 2. Deletion
+     - [x] 2. Deletion
      - [ ] 3. Doubly Linked List
 - [ ] 2. Stack
+     - [ ] 1. Push
+     - [ ] 2. Pop
 - [ ] 3. Queue
 - [ ] 4. Trees
 - [ ] 5. Graphs
