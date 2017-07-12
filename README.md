@@ -1,7 +1,6 @@
 # Data-Structures 
 <p align="center">
-  <img src="your_relative_path_here" width="350"/>
-  <img src="your_relative_path_here_number_2_large_name" width="350"/>
+  <img src="https://user-images.githubusercontent.com/15076536/28106024-c35d7d12-66ff-11e7-902a-b5ac42b88ec1.jpg" width="350"/>
 </p>
 ## Implementation of various Data Structure!
 ### Date:10/7/2017
