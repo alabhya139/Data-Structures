@@ -16,11 +16,11 @@ Hi everyone, This is the Github repository for the various Data Structures I hav
 - [ ] 4. Trees
 - [ ] 5. Graphs
 
-I'll update the above list as well as my code database regularly.In this way I started to learn Github. i know I'll commit many mistakes and you all are there to correct me. I'll give my 100% effort to make this Little Project of mine possible.
+I'll update the above list as well as my code database regularly.In this way I started to learn **Github**. i know I'll commit many mistakes and you all are there to correct me. I'll give my 100% effort to make this **Little Project** of mine possible.
 
 ### EDIT :
-       I have updated the project on **12/07/2017**. Now I am creating Header Files for clean coding. 
-       Regularly I'll update this **repository** as I'll learn stuff. Its fun using **Github**. 
+       I have updated the project on 12/07/2012. Now I am creating Header Files for clean coding. 
+       Regularly I'll update this repository as I'll learn stuff. Its fun using Github. 
        I'll come up with new project ideas in the coming days and soon I'll start a new project.
        
 
